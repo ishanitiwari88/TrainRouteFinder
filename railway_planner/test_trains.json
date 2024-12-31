@@ -1,0 +1,71 @@
+[
+  {
+    "number": "12951",
+    "name": "Rajdhani Express",
+    "source": "NDLS",
+    "destination": "MMCT",
+    "stops": [
+      [
+        "NDLS",
+        "16:00",
+        "16:25"
+      ],
+      [
+        "BPL",
+        "00:30",
+        "00:35"
+      ],
+      [
+        "MMCT",
+        "08:00",
+        null
+      ]
+    ]
+  },
+  {
+    "number": "12309",
+    "name": "Shatabdi Express",
+    "source": "NDLS",
+    "destination": "BPL",
+    "stops": [
+      [
+        "NDLS",
+        "15:00",
+        "15:25"
+      ],
+      [
+        "CNB",
+        "20:30",
+        "20:35"
+      ],
+      [
+        "BPL",
+        "23:30",
+        null
+      ]
+    ]
+  },
+  {
+    "number": "12139",
+    "name": "Sewagram Express",
+    "source": "BPL",
+    "destination": "MMCT",
+    "stops": [
+      [
+        "BPL",
+        "01:30",
+        "01:45"
+      ],
+      [
+        "NGP",
+        "06:30",
+        "06:35"
+      ],
+      [
+        "MMCT",
+        "15:00",
+        null
+      ]
+    ]
+  }
+]

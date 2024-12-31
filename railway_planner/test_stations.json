@@ -1,0 +1,38 @@
+[
+  {
+    "code": "NDLS",
+    "name": "New Delhi",
+    "lat": 28.6419,
+    "lon": 77.2195
+  },
+  {
+    "code": "MMCT",
+    "name": "Mumbai Central",
+    "lat": 18.9398,
+    "lon": 72.8194
+  },
+  {
+    "code": "CNB",
+    "name": "Kanpur Central",
+    "lat": 26.4499,
+    "lon": 80.3319
+  },
+  {
+    "code": "BPL",
+    "name": "Bhopal Junction",
+    "lat": 23.2687,
+    "lon": 77.4168
+  },
+  {
+    "code": "JHS",
+    "name": "Jhansi",
+    "lat": 25.4484,
+    "lon": 78.5685
+  },
+  {
+    "code": "NGP",
+    "name": "Nagpur",
+    "lat": 21.1458,
+    "lon": 79.0882
+  }
+]
